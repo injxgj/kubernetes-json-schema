@@ -2240,7 +2240,8 @@
           }
         },
         "required": [
-          "name"
+          "name",
+          "image"
         ],
         "type": [
           "object",
@@ -5505,7 +5506,8 @@
           }
         },
         "required": [
-          "name"
+          "name",
+          "image"
         ],
         "type": [
           "object",
